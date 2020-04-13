@@ -1,0 +1,5 @@
+## Interface: 11303
+## Title: Fishingfitler
+## Author: 残酒
+## Notes: FishingFilter assist you to delete the trashes. 抛竿宏加一句/run filterTrashes()
+core.lua
