@@ -14,7 +14,7 @@ local tanarisTrashes={
 -- 艾萨拉钓鱼删除垃圾
 local azsharaTrashes={
 	[13893]=true,[13888]=true,[4603]=true,[13756]=true,
-	[6359]=true,
+	[6359]=true,[13758]=true,[8365]=true,
 	[7974]=true,[5498]=true,[5500]=true,[7971]=true
 }
 
