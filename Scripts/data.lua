@@ -32,6 +32,8 @@ _FishingFilter.fishes={
 }
 	
 _FishingFilter.trashes={
+	[5498]={ name="有光泽的小珍珠", delete=true },
+	[5500]={ name="彩色珍珠", delete=true },
 	[6292]={ name="10磅重的泥鳅", delete=true },
 	[6294]={ name="12磅重的泥鳅", delete=true },
 	[6295]={ name="15磅重的泥鳅", delete=true },
@@ -49,6 +51,8 @@ _FishingFilter.trashes={
 	[6643]={ name="浮肿的小鱼", delete=true },
 	[6645]={ name="浮肿的泥鳅", delete=true },
 	[6647]={ name="浮肿的鲶鱼", delete=true },
+	[7971]={ name="黑珍珠", delete=true },
+	[7974]={ name="美味的蚌肉", delete=true },
 	[8366]={ name="浮肿的鲑鱼", delete=true },
 	[13874]={ name="沉重的箱子", delete=true },
 	[13875]={ name="锁住的铁箍箱", delete=true },
